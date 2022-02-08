@@ -1,5 +1,0 @@
-{
-   "dependencies": {
-      "node-red-contrib-github-plus": "~0.3.1"
-   }
-}
